@@ -1,12 +1,11 @@
-# Evelyn
+# Hello Fresh Landing Page
 
-A landing page template.
+This repository contains the code for the final assignment of my Motion Design Course.
+The assignment consisted of styling a web template to fit a certain brand image, while also adding Lottie-animations to make it come to life. Most of the HTML and CSS skills for this assignment were acquired in other courses, so the main focus here was to learn effective 2D animation for web purposes. I mainly used SVG elements to create my animations. We were also asked to make and edit a screencast and integrate it into our webpage. 
+We got comfortable with Adobe After Effects, Premiere and Illustrator in this class.
 
-* [Getting started](#getting-started)
+You can visit the website [here](https://verbekeibe.github.io/Landing-Page-Hello-Fresh/). Have a look around!
 
-## Getting started
-* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
-* Next, use your command line to enter your project directory.
-* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
+Make sure to visit the [Wiki Page](https://github.com/VerbekeIbe/Landing-Page-Hello-Fresh/wiki) to learn more about the techniques used in this project.
 
-You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
+*Lottie animation, Adobe After Effects, Adobe Illustrator, Adobe Premiere*
